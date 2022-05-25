@@ -1,0 +1,63 @@
+[
+  {
+  "id": 1,
+  "nombre": "Batik",
+  "talle": "S",
+  "img":"./imagenes/mujer/1167C batik - copia.jpg" ,
+  "precio":"3800"
+},{
+  "id": 2,
+  "nombre": "Tob beige",
+  "talle": "S",
+  "img":"./imagenes/mujer/232 beige - copia.jpg" ,
+  "precio":"3800"
+},{
+  "id": 3,
+  "nombre": "Calza beige",
+  "talle": "L",
+  "img":"./imagenes/mujer/232 beige atras.jpg" ,
+  "precio":"5700"
+},{
+  "id": 4,
+  "nombre": "Top gris",
+  "talle": "S",
+  "img":"./imagenes/mujer/232 gris - copia.jpg" ,
+  "precio":"2900"
+},{
+  "id": 5,
+  "nombre": "Calza gris",
+  "talle": "S",
+  "img":"./imagenes/mujer/232 gris atras - copia.jpg" ,
+  "precio":"3700"
+},{
+  "id": 6,
+  "nombre": "Remera hombre",
+  "talle": "L",
+  "img":"./imagenes/hombre/remera fanstasma 1.jpg" ,
+  "precio":"4800"
+},{
+  "id": 7,
+  "nombre": "Remera hombre",
+  "talle": "L",
+  "img":"./imagenes/hombre/remera fanstasma 2.jpg" ,
+  "precio":"2900"
+},{
+  "id": 8,
+  "nombre": "Remera hombre",
+  "talle": "L",
+  "img":"./imagenes/hombre/short fanstas H 1.jpg" ,
+  "precio":"5000"
+},{
+  "id": 9,
+  "nombre": "Short hombre",
+  "talle": "L",
+  "img":"./imagenes/hombre/short fantasma H 2.jpg" ,
+  "precio":"3700"
+},{
+  "id": 10,
+  "nombre": "Short hombre",
+  "talle": "L",
+  "img":"./imagenes/hombre/short fantasma H 3.jpg" ,
+  "precio":"4800"
+}
+]
