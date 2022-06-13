@@ -63,15 +63,15 @@ function procesarCompra(e) {
     enviado.width = "100";
     enviado.height = "150";
 
-    setTimeout(() => {
-      cargandoGif.style.display = "none";
-      document.querySelector("#loaders").appendChild(enviado);
-    }, 5000);
-    setTimeout(() => {
-      enviado.remove();
-      compra.vaciarLocalStorage();
-      window.location = "index.html";
-    }, 10000);
+    // setTimeout(() => {
+    //   cargandoGif.style.display = "none";
+    //   document.querySelector("#loaders").appendChild(enviado);
+    // }, 5000);
+    // setTimeout(() => {
+    //   enviado.remove();
+    //   compra.vaciarLocalStorage();
+    //   window.location = "index.html";
+    // }, 10000);
   }
 }
 
